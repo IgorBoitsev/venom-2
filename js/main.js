@@ -21,8 +21,8 @@ const hideForm = document.querySelector('.hide-form'),
 
 // Появление ярлыка всплывающей формы через 1 с после загрузки сайта
 setTimeout(() => {
-  const heightForm = orderTicket.offsetHeight;
-  hideForm.style.bottom = -heightForm + 'px';
+  // const heightForm = orderTicket.offsetHeight;
+  hideForm.style.bottom = -orderTicket.offsetHeight + 'px';
 }, 1000)
 
 
