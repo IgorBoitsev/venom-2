@@ -1,3 +1,3 @@
-# Promo site Venom 2
-Promo site for Venom 2 movie with Tom Hardy and Woody Harrelson.
-Training project.
+# Промо сайт Веном 2
+Промо сайт для фильма Веном 2 с Томом Харди и Вуди Харрельсоном в главных ролях.
+Учебный проект.
